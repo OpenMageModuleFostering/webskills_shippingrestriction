@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/webskills_shippingrestriction",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Restrict your shipping by adding zip codes.",
+    "authors": [
+    {
+        "name": "Rohit Dhiman",
+        "email": "rohitdoll@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
