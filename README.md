@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Shipping Restriction is a simple and lite magento extension.Using this extension,you can restrict your shipping deleivery by adding zipcodes. 

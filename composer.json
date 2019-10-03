@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/webskills_shippingrestriction",
+    "name": "openmage-module-fostering\/webskills_shippingrestriction",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Shipping Restriction is a simple and lite magento extension.Using this extension,you can restrict your shipping deleivery by adding zipcodes. ",
     "authors": [
